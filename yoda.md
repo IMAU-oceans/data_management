@@ -40,23 +40,23 @@ src="yoda_images/image005.png"
 alt="drawing"/>
 
 <img
-src="yoda_images/image007.png"
+src="yoda_images/image007_newer.png"
 alt="drawing"/>
 
 <img
-src="yoda_images/image009.png"
+src="yoda_images/image009_new.png"
 alt="drawing"/>
 
 <img
-src="yoda_images/image011.png"
+src="yoda_images/image011_new.png"
 alt="drawing"/>
 
 <img
-src="yoda_images/image013.png"
+src="yoda_images/image013_new.png"
 alt="drawing"/>
 
 <img
-src="yoda_images/image015.png"
+src="yoda_images/image015_new.png"
 alt="drawing"/>
 
 #### 1.2 Connect to Yoda file storage from Windows
