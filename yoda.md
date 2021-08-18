@@ -21,6 +21,16 @@ For more information about how to collaborate with fellow researchers please go 
 
 ## Workflow store and publish data on Yoda
 
+- 
+    - [1.	Connect to Yoda file storage](#1connect-to-yoda-file-storage)
+      - [1.1 Connect from Mac](#11-connect-from-mac)
+      - [1.2 Connect to Yoda file storage from Windows](#12-connect-to-yoda-file-storage-from-windows)
+    - [2. Drag and drop your data to Yoda](#2-drag-and-drop-your-data-to-yoda)
+    - [3. Add Metadata to your data in Yoda](#3-add-metadata-to-your-data-in-yoda)
+    - [4. Lock your data to secure it](#4-lock-your-data-to-secure-it)
+    - [5. Submit your data to be stored in the Vault](#5-submit-your-data-to-be-stored-in-the-vault)
+    - [6. Publish the data](#6-publish-the-data)
+
 ### 1.	Connect to Yoda file storage
 
 #### 1.1 Connect from Mac
